@@ -1,1 +1,1 @@
-Solution for assignment 2 in python
+Assignment and the solution in python
